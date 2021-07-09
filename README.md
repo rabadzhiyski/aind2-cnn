@@ -1,4 +1,4 @@
-# aind2-cnn
+# aind2-cnn1
 
 ### Instructions
 
